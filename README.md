@@ -1,0 +1,6 @@
+- 👋🏼 Hi, I’m @CeruleanArc, otherwise known online and off as **Joan**.
+- 🤐 I stole this from GitHub, which suggested this neat little way of making a bio. Is it stealing if someone says, "Here"? 🤔
+- 👀 I’m interested in learning more about my new career in IT. 👩‍💻 But I like to learn about *anything* at all. Especially when it's about something that's "out of this world." 🪐
+- 🌱 I’m currently learning a *lot* more about **ServiceNow** than I ever thought I would! 😝📚
+- 💞️ I don't know what those two hearts are doing, but I don't trust them. 🕵️‍♀️
+- 📫 Email me if you like, but I promise you that I know very little. 😅
