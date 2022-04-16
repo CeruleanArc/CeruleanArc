@@ -11,4 +11,4 @@ After working as a system administrator and technical support engineer for sever
 <!-- Worked on projects using frontend technologies (HTML, CSS, JS, Typescript, and Angular). -->
 <!-- Demonstrated skills in data management, solving problems, and able to work collaboratively within a team or independently -->
 <!-- Self-starter and excited to explore new solutions -->
-<!--  Strong oral and written communication skills -->
+<!-- Strong oral and written communication skills -->
