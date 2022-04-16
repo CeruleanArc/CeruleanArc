@@ -4,7 +4,7 @@ For the past six years, I served as website administrator and technical director
 
 After working as a system administrator and technical support engineer for several years, I decided to shift my career to software development. Since shifting careers,  I have worked on several projects and gained valuable experience in technologies on Java, web applications, and mobile app development. I enjoy programming and enjoy learning new development technologies, which is the reason I am currently working as a ServiceNow Developer through Revature.  I hope to become a senior developer in a few years to mentor others, possibly including others trying to make career shifts as I have.
 
-During my time at Revature, I’ve worked on several projects where I gained experience in ServiceNow Development, Administration, ITSM, and ITIL. 
+<!-- During my time at Revature, I’ve worked on several projects where I gained experience in ServiceNow Development, Administration, ITSM, and ITIL. -->
 
 <!-- Programmed using Business Rules, Script Includes, UI Policies, UI Actions, and Client Scripts -->
 <!-- Used ServiceNow Workflows, Flow Design, App Engine Studio, and Service Portal -->
